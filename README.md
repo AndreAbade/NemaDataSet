@@ -1,5 +1,5 @@
 # NemaDataSet
-NemaDataSet is a set of 3,063 images, classified into 5 classes of phytonematodes with prevalence in soybean crops
+NemaDataSet containing 3,063 microscopic images of the five species of phytonematodes with the greatest damage relevance to soybean crops.
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
