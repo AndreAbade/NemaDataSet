@@ -13,15 +13,25 @@ Body: Your name, e-mail, telephone number, organization, postal mail, purpose fo
 All publications which are used the NemaDataSet, must be cited using the Bibtex entry as follow:
 
 @article{ABADE202239,
+
 title = {NemaNet: A convolutional neural network model for identification of soybean nematodes},
+
 journal = {Biosystems Engineering},
+
 volume = {213},
+
 pages = {39-62},
+
 year = {2022},
+
 issn = {1537-5110},
+
 doi = {https://doi.org/10.1016/j.biosystemseng.2021.11.016},
+
 url = {https://www.sciencedirect.com/science/article/pii/S153751102100283X},
+
 author = {André Abade and Lucas Faria Porto and Paulo Afonso Ferreira and Flávio {de Barros Vidal}},
+
 keywords = {Plant disease, Phytonematodes, Plant pathogen, Plant-parasitic nematode, CNN, Deep learning}
 }
 
